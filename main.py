@@ -18,8 +18,6 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 exit()
-            if event.type == pygame.MOUSEBUTTONDOWN:
-                current_screen.click()
         
         # Limpar o ecrã com um azul escuro
         display.fill(DARK_BLUE)
