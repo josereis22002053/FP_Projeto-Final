@@ -8,7 +8,6 @@ class Board:
         self.button = pygame.Rect(25, 620, 150, 75)
 
         self.button_color = (255, 255, 255)
-        #self.font = pygame.freetype.Font('NotoSans-Regular.ttf', 40)
         self.font = pygame.freetype.Font('recharge-bd.ttf', 30)
     
         self.turn_text = ''

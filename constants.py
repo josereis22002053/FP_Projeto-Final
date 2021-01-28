@@ -41,6 +41,6 @@ EXIT_HIGHLIGHT = pygame.image.load('exit_highlight.png')
 MENU = pygame.image.load('menu.png')
 MENU_HIGHLIGHT = pygame.image.load('menu_highlight.png')
 
-
+# LOGO
 LOGO = pygame.image.load('logo.png')
 
