@@ -1,4 +1,5 @@
 import pygame
+from constants import DARK_BLUE
 
 
 def main():
