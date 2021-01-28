@@ -1,3 +1,6 @@
+import pygame
+
+
 # COLORS
 WHITE = (255, 255, 255)
 DARK_BLUE = (0, 0, 20)
